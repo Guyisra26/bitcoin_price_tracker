@@ -1,0 +1,17 @@
+{
+  "core_config": {
+    "base_url": "https://api.coinbase.com/v2/",
+    "base": "BTC",
+    "currency": "USD",
+    "run_minutes": 60,
+    "interval_seconds": 60
+  },
+  "email_config": {
+    "sender_email": "guyisraeli08@gmail.com",
+    "app_password": "kffdjhfqzpogptas",
+    "recipient_email": "guyisraeli08@gmail.com",
+    "subject": "Bitcoin Price Report",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465
+  }
+}

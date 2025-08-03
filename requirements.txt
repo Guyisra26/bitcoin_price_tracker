@@ -1,0 +1,4 @@
+pydantic[email]==2.11.7
+uplink==0.10.0
+matplotlib==3.10.3
+requests==2.32.4
